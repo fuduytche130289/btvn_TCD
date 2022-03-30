@@ -1,0 +1,27 @@
+.wrapper {
+    text-align: center;
+ }
+
+ input {
+     width: 50%;
+     height: 2.5rem;
+     font-size: 25px;
+ }
+
+ li {
+     list-style: none;
+ }
+
+ a {
+     text-decoration: none;
+     display: flex;
+     margin-bottom: 30px;
+     color: black;
+ }
+ img {
+     width: 300px;
+ }
+ .content {
+     margin-left: 30px;
+     margin-bottom: 30px;
+ }
